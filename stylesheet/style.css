@@ -17,15 +17,23 @@ p, li, h2 {
 	font-size: 16px;
 	line-height: 1.5;
 	letter-spacing: 1px;
-	color: #ffffff;
+}
+
+footer {
+	font-size:10px;
+	line-height: 1.5;
 }
 
 body {
 	width: 500px;
 	margin: 0 auto;
-	background-color: #000000;
+	background-color: #D4D9D9;
 	padding: 0px 20px 20px 20px;
 	border: 10px solid #FF7F02;
+}
+
+figure {
+	text-align: center;
 }
 
 img {
